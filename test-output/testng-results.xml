@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="126841" started-at="2020-08-25T17:31:07 ICT" finished-at="2020-08-25T17:33:14 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="126841" started-at="2020-08-25T17:31:07 ICT" finished-at="2020-08-25T17:33:14 ICT">
+      <class name="tests.LoginTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="beforeMethod" is-config="true" duration-ms="11190" started-at="2020-08-25T17:31:07 ICT" finished-at="2020-08-25T17:31:18 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginWithBlankField()[pri:0, instance:tests.LoginTest@47ef968d]" name="LoginWithBlankField" duration-ms="5029" started-at="2020-08-25T17:31:18 ICT" finished-at="2020-08-25T17:31:23 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithBlankField -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="afterMethod" is-config="true" duration-ms="624" started-at="2020-08-25T17:31:23 ICT" finished-at="2020-08-25T17:31:24 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="beforeMethod" is-config="true" duration-ms="10270" started-at="2020-08-25T17:31:24 ICT" finished-at="2020-08-25T17:31:34 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginWithEmailInCorrect()[pri:0, instance:tests.LoginTest@47ef968d]" name="LoginWithEmailInCorrect" duration-ms="5463" started-at="2020-08-25T17:31:34 ICT" finished-at="2020-08-25T17:31:40 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithEmailInCorrect -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="afterMethod" is-config="true" duration-ms="451" started-at="2020-08-25T17:31:40 ICT" finished-at="2020-08-25T17:31:40 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="beforeMethod" is-config="true" duration-ms="10752" started-at="2020-08-25T17:31:40 ICT" finished-at="2020-08-25T17:31:51 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginWithEmailInvalid()[pri:0, instance:tests.LoginTest@47ef968d]" name="LoginWithEmailInvalid" duration-ms="4792" started-at="2020-08-25T17:31:51 ICT" finished-at="2020-08-25T17:31:56 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithEmailInvalid -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="afterMethod" is-config="true" duration-ms="485" started-at="2020-08-25T17:31:56 ICT" finished-at="2020-08-25T17:31:56 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="beforeMethod" is-config="true" duration-ms="9515" started-at="2020-08-25T17:31:56 ICT" finished-at="2020-08-25T17:32:06 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginWithPassEmpty()[pri:0, instance:tests.LoginTest@47ef968d]" name="LoginWithPassEmpty" duration-ms="4952" started-at="2020-08-25T17:32:06 ICT" finished-at="2020-08-25T17:32:11 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithPassEmpty -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="afterMethod" is-config="true" duration-ms="509" started-at="2020-08-25T17:32:11 ICT" finished-at="2020-08-25T17:32:11 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="beforeMethod" is-config="true" duration-ms="9486" started-at="2020-08-25T17:32:11 ICT" finished-at="2020-08-25T17:32:21 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginWithPassInCorrect()[pri:0, instance:tests.LoginTest@47ef968d]" name="LoginWithPassInCorrect" duration-ms="5130" started-at="2020-08-25T17:32:21 ICT" finished-at="2020-08-25T17:32:26 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithPassInCorrect -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="afterMethod" is-config="true" duration-ms="502" started-at="2020-08-25T17:32:26 ICT" finished-at="2020-08-25T17:32:26 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="beforeMethod" is-config="true" duration-ms="9719" started-at="2020-08-25T17:32:26 ICT" finished-at="2020-08-25T17:32:36 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginWithPassInvalid()[pri:0, instance:tests.LoginTest@47ef968d]" name="LoginWithPassInvalid" duration-ms="5342" started-at="2020-08-25T17:32:36 ICT" finished-at="2020-08-25T17:32:41 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithPassInvalid -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="afterMethod" is-config="true" duration-ms="517" started-at="2020-08-25T17:32:41 ICT" finished-at="2020-08-25T17:32:42 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="beforeMethod" is-config="true" duration-ms="9922" started-at="2020-08-25T17:32:42 ICT" finished-at="2020-08-25T17:32:52 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginWithCorrect()[pri:0, instance:tests.LoginTest@47ef968d]" name="loginWithCorrect" duration-ms="7369" started-at="2020-08-25T17:32:52 ICT" finished-at="2020-08-25T17:32:59 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithCorrect -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="afterMethod" is-config="true" duration-ms="436" started-at="2020-08-25T17:32:59 ICT" finished-at="2020-08-25T17:33:00 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="beforeMethod" is-config="true" duration-ms="9146" started-at="2020-08-25T17:33:00 ICT" finished-at="2020-08-25T17:33:09 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginWithEmailEmpty()[pri:0, instance:tests.LoginTest@47ef968d]" name="loginWithEmailEmpty" duration-ms="4754" started-at="2020-08-25T17:33:09 ICT" finished-at="2020-08-25T17:33:14 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithEmailEmpty -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTest@47ef968d]" name="afterMethod" is-config="true" duration-ms="411" started-at="2020-08-25T17:33:14 ICT" finished-at="2020-08-25T17:33:14 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

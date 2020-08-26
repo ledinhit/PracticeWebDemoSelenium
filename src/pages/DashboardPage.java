@@ -13,7 +13,7 @@ public class DashboardPage {
 	}
 	
 	public boolean isDisplayed() {
-		if (Links.URL_PRACTICE_ACCOUNT.equals(driver.getCurrentUrl())) {
+		if (Links.URL_LOGIN_SUCCESS.equals(driver.getCurrentUrl())) {
 			return true;
 		} else {
 			return false;

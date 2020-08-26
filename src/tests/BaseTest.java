@@ -18,8 +18,8 @@ public class BaseTest {
 	public void beforeMethod() {
 		driver = new FirefoxDriver();
 		driver.get(Links.URL);
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.findElement(By.className(linkSignIn)).click();
-		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
 	}
 
 	@AfterMethod
